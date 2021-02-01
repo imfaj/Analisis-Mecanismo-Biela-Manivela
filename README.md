@@ -37,4 +37,6 @@ Aquí concluye si el mecanismo es Grashof y la clase. Se arrojan los resultados 
 La sección inferior muestra los gráficos con los resultados de velocidades y aceleraciones según la posición del angulo de entrada.
 ![Step10b](./AppImages/Diagram.png)
 <br>
+
+___
 ___
