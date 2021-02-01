@@ -154,7 +154,7 @@ Cita2Inter=(0:1:360);
         plot(handles.DiagVeloc,Cita2Inter,VelocidadesA,'linewidth',3)
         title ('Velocidad A en funcion de Cita2','Fontsize',14)
         ylabel ('Velocidad (m/s)','Fontsize',14)
-        xlabel ('Cita2 (°)','Fontsize',14)
+        xlabel ('Cita2 (ï¿½)','Fontsize',14)
         grid on
 
 
@@ -184,7 +184,7 @@ Cita2Inter=(0:1:360);
         plot(handles.DiagVeloc,Cita2Inter,VelocidadesB_A,'linewidth',3)
         title ('Velocidad B/A en funcion de Cita2','Fontsize',14)
         ylabel ('Velocidad (m/s)','Fontsize',14)
-        xlabel ('Cita2 (°)','Fontsize',14)
+        xlabel ('Cita2 (ï¿½)','Fontsize',14)
         grid on
 
 
@@ -214,7 +214,7 @@ Cita2Inter=(0:1:360);
         plot(handles.DiagVeloc,Cita2Inter,VelocidadesB,'linewidth',3)
         title ('Velocidad B en funcion de Cita2','Fontsize',14)
         ylabel ('Velocidad (m/s)','Fontsize',14)
-        xlabel ('Cita2 (°)','Fontsize',14)
+        xlabel ('Cita2 (ï¿½)','Fontsize',14)
         grid on
 
 
@@ -528,7 +528,7 @@ Cita2Inter=(0:1:360);
         plot(handles.DiagVeloc,Cita2Inter,AceleracionesA,'linewidth',3)
         title ('Aceleracion A en funcion de Cita2','Fontsize',14)
         ylabel ('Aceleracion (m/s2)','Fontsize',14)
-        xlabel ('Cita2 (°)','Fontsize',14)
+        xlabel ('Cita2 (ï¿½)','Fontsize',14)
         grid on
 
 
@@ -560,7 +560,7 @@ Cita2Inter=(0:1:360);
         plot(handles.DiagVeloc,Cita2Inter,AceleracionesB_A,'linewidth',3)
         title ('Aceleracion B/A en funcion de Cita2','Fontsize',14)
         ylabel ('Aceleracion (m/s2)','Fontsize',14)
-        xlabel ('Cita2 (°)','Fontsize',14)
+        xlabel ('Cita2 (ï¿½)','Fontsize',14)
         grid on
 
 
@@ -592,7 +592,7 @@ Cita2Inter=(0:1:360);
         plot(handles.DiagVeloc,Cita2Inter,AceleracionesB,'linewidth',3)
         title ('Aceleracion B en funcion de Cita2','Fontsize',14)
         ylabel ('Aceleracion (m/s2)','Fontsize',14)
-        xlabel ('Cita2 (°)','Fontsize',14)
+        xlabel ('Cita2 (ï¿½)','Fontsize',14)
         grid on
 
 
