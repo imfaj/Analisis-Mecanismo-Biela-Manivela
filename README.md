@@ -30,7 +30,7 @@ Los datos que utiliza para el analisis son:
 1.  Dando click al botón _Representacion Simplificada_ se tendrá una vista del diagrama en base al cual se denominan las variables. El mismo también es útil para considerar la dirección de los angulos.<br>
 ![Step9a](./AppImages/RepreSimp.png)
 ![Step9b](./AppImages/MecanisBielaMan.png) <br>
-Dando Click al botón _Mecanismo Biela-Manivela- se ocultará el diagrama. <br>
+Dando Click al botón _Mecanismo Biela-Manivela_ se ocultará el diagrama. <br>
 1. El programa solicita introducir los parametros de entrada. Una vez se hayan colocado al presionar el botón _Calcular_ se tendrá todo el analisis del mecanismo. <br>
 ![Step10a](./AppImages/Calculate.png)
 Aquí concluye si el mecanismo es Grashof y la clase. Se arrojan los resultados del analisis de posiciones, velocidades y aceleraciones.<br>
