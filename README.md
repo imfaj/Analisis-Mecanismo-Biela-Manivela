@@ -1,4 +1,4 @@
-# Analisis  Mecanismo Biela-Manivela con Aceleración Angular
+# Analisis  Mecanismo Biela-Manivela con Aceleración Angular de Entrada Constante
 ___
 
 Es un programa hecho en matlab usando GUIDE para el analisis de posiciones, velocidades, aceleraciones y grashof de un Mecanismo 4 barras de Tipo Biela-Manivela con Aceleración Angular de entrada constante.
